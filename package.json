@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Xiddiqui/Assignment-1/issues"
   },
-  "homepage": "https://github.com/Xiddiqui/Assignment-1#readme"
+  "homepage": "https://github.com/Xiddiqui/Assignment-1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
